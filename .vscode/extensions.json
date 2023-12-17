@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "aeschli.vscode-css-formatter",
+        "pranaygp.vscode-css-peek",
+        "dbaeumer.vscode-eslint",
+        "ecmel.vscode-html-css",
+        "george-alisson.html-preview-vscode",
+        "zignd.html-css-class-completion",
+        "ritwickdey.liveserver",
+        "deerawan.vscode-faker",
+        "raczzalan.webgl-glsl-editor"
+    ]
+}
