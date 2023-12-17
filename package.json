@@ -13,7 +13,10 @@
 	],
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build"
+		"build": "vite build",
+		"lint": "eslint \"./**/*.ts\"",
+		"pretty": "prettier --check \"./**/*.{ts,js,json}\"",
+		"pretty-fix": "prettier --write \"./**/*.{ts,js,json}\""
 	},
 	"author": "Anton Stepin <astiopin@gmail.com>",
 	"contributors": [
